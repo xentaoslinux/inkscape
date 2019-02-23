@@ -1,0 +1,2 @@
+# inkscape
+[import] Editor Gambar
