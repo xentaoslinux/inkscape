@@ -1,0 +1,2 @@
+https://launchpad.net/~inkscape.dev/+archive/ubuntu/stable/+files/inkscape_0.92.4+68~ubuntu16.04.1_amd64.deb
+https://launchpad.net/~inkscape.dev/+archive/ubuntu/stable/+files/inkscape_0.92.4+68~ubuntu16.04.1_i386.deb
